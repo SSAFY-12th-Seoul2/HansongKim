@@ -7,5 +7,5 @@ for i in range(1, n+1):
     n_list[i] = [i, work - 1, wage]
 
 while True:
-    if n_list[0]
+    if n_list[0] + n_list[1] >
     pass
